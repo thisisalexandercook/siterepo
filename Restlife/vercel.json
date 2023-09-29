@@ -1,4 +1,4 @@
-
+{
 "builds" :[{
     "src" : "siterepo/Restlife/wsgi.py",
     "use" : "@vercel/python",
